@@ -15,8 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👋 I'm shen. A newcomer SRE.
 
+Most commonly used：
 
-![shen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdog-shen&show_icons=true&theme=radical)
+- 🐍 Python
+- 🦀 Rust
+- 🐚 Shell
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdog-shen&layout=donut)
+In progressing：
+
+- ⚛️ React
+- 🐭 Go 
+
+![shen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdog-shen&show_icons=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdog-shen&layout=donut&)

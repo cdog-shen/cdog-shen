@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 ![shen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdog-shen&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdog-shen&layout=donut)

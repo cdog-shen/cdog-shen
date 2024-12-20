@@ -37,6 +37,7 @@ Friends of mine：
 - [basi-a](https://github.com/basi-a)
 - [jami1024](https://github.com/jami1024)
 - [Tyuwwe](https://github.com/Tyuwwe)
+- [HaPaTa](https://github.com/Passer-SJY)
 
 Recent status：
 

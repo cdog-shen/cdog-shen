@@ -26,7 +26,19 @@ Most commonly used：
 In progressing：
 
 - ⚛️ React
-- 🐭 Go 
+- 🐭 Go
+
+Currently working on:
+
+- kernel_master: a SasS Platform based on Rust Acitx and React
+
+Friends of mine：
+
+- [basi-a](https://github.com/basi-a)
+- [jami1024](https://github.com/jami1024)
+- [Tyuwwe](https://github.com/Tyuwwe)
+
+Recent status：
 
 ![shen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdog-shen&show_icons=true) 
 

@@ -22,10 +22,10 @@ Most commonly used：
 - 🐍 Python
 - 🦀 Rust
 - 🐚 Shell
+- ⚛️ React
 
 In progressing：
 
-- ⚛️ React
 - 🐭 Go
 
 Currently working on:

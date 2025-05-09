@@ -21,12 +21,13 @@ Most commonly used：
 
 - 🐍 Python
 - 🦀 Rust
+- 🐭 Go
 - 🐚 Shell
 - ⚛️ React
 
 In progressing：
 
-- 🐭 Go
+- ⚓ Kubernetes
 
 Currently working on:
 
